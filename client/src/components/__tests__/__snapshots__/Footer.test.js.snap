@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component Footer component matches the snapshot 1`] = `
+<footer
+  className="makeStyles-footer-2"
+>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom MuiTypography-alignCenter"
+  >
+    A production with EE and EBQ
+  </h6>
+  <p
+    className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+  >
+    Contact
+  </p>
+</footer>
+`;
