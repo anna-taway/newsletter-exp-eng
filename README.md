@@ -1,6 +1,6 @@
 # Assignement
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows user to see a list of products. You can click on the button to subscribe to the newsletter and access the form and sign in.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows user to see a list of products. You can click on the button to subscribe to the newsletter and access the form to sign in.
 
 ## User Interface
 
@@ -57,6 +57,10 @@ Install react-test-renderer for Snpashot unit testing. Snapshots are a common th
 If you can live with the fact that react-test-renderer does not use a DOM you'll need just to tweak the test a bit for Act. That means importing act with create.
 
 The test must use act() for any action that changes the component's state, like "mounting" it or clicking on a function passed as a prop. 
+
+### E2E test with Cypress
+
+Please see the [repository](https://github.com/anna-taway/subscription)
 
 ## Available Scripts
 
